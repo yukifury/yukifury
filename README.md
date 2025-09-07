@@ -1,6 +1,6 @@
 ## hello! 🌑
 
-I'm a 20-year old **self-taught Frontend Developer** with ~2 years of experience. I specialize in frontend engineering — focusing on architecture, performance optimization and building maintainable UI systems. I'm currently building a custom CMS for a client and I'm open to **✨full-time jobs (remote / EU)✨**.
+I'm a 20-year old **self-taught Frontend Developer** with ~2 years of experience. I specialize in web frontend engineering — focusing on architecture, performance optimization and building maintainable UI systems. I'm currently building a custom CMS for a client and I'm open to **✨full-time jobs (remote / EU)✨**.
 - 🎓 Computer Science student at **KROK University** (Kyiv, Ukraine)
 - 🇮🇪 Based in Ireland — originally from Ukraine 🇺🇦
 - 💼 Worked across multiple projects and teams (custom CMS, e-commerce, Telegram webapps)
@@ -11,7 +11,7 @@ I have experience working on:
 - [X] E-commerce websites
 - [X] Telegram webapps, bots, etc.
 - [X] Landing pages
-- [X] Experience integrating third-party services (Chatwoot, Planka, SMTP, analytics and more). 
+- [X] Third-party services integrations (Chatwoot, Planka, SMTP, analytics and more). 
 - [ ] ~~Billion dollar social network with own cryptocurrencies and blackjack bots~~
 
 ### 🔭 What I'm working on now
