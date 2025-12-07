@@ -16,11 +16,13 @@ I have experience working on:
 
 ### 🔭 What I'm working on now
 - Building a custom CMS (solo frontend developer, "from-scratch" project)
-- A couple of landing pages and my own portfolio page
 
 ### ⚡ Open to
 - Full-time roles — remote or EU-based
 - Short collaborations and freelance projects (selective)
+
+#### My portfolio website - https://yukifury.dev
+
 
 #### 📫 You can reach me via Telegram - [@furiesd](https://furiesd.t.me)
 
@@ -113,7 +115,3 @@ I have experience working on:
 
 [![yukifury's WakaTime stats](https://fork-readme-stats-chi.vercel.app/api/wakatime?username=@ecca9ee2-07e7-43c3-a3bb-d3138ea2c316&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![yukifury's GitHub stats](https://fork-readme-stats-chi.vercel.app/api?username=yukifury&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<sub>
-:cyclone::cyclone: ooohhh :cyclone: you want to follow ooo :cyclone: :cyclone:
-</sub>
