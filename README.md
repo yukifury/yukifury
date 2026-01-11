@@ -15,14 +15,13 @@ I have experience working on:
 - [ ] ~~Billion dollar social network with own cryptocurrencies and blackjack bots~~
 
 ### 🔭 What I'm working on now
-- Building a custom CMS (solo frontend developer, "from-scratch" project)
+- My UI-kit - [@reglyph](https://github.com/reglyph)
 
 ### ⚡ Open to
 - Full-time roles — remote or EU-based
 - Short collaborations and freelance projects (selective)
 
 #### My portfolio website - https://yukifury.dev
-
 
 #### 📫 You can reach me via Telegram - [@furiesd](https://furiesd.t.me)
 
@@ -37,11 +36,12 @@ I have experience working on:
 </span>
 
 <span style="color: #650a94; font-weight: bold; font-size: 14px">
-    Frameworks:
+    Libraries/frameworks:
     <div style="display: flex; gap: 4px">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.JS"/>
-        <img src="https://camo.githubusercontent.com/d96f66811375fdc1f9c29cf92dbd98fc326132f313dacddb2341811c336e95a1/68747470733a2f2f692e696d6775722e636f6d2f597143487645572e676966" style="width: 75px; height: 28px;" alt="Next.JS"/>
+        <img src="https://img.shields.io/badge/Preact-blue?style=for-the-badge" alt="Preact"/>
+        <img src="https://img.shields.io/badge/Motion-black?style=for-the-badge" alt="Motion"/>
     </div>
 </span>
 
@@ -69,6 +69,7 @@ I have experience working on:
     <div style="display: flex; gap: 4px">
         <img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" alt="Vitest"/>
         <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+        <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
     </div>
 </span>
 
@@ -96,15 +97,16 @@ I have experience working on:
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker"/>
     </div>
 </span>
 
 <span style="color: #650a94; font-weight: bold; font-size: 14px">
-    Other libraries:
+    Other:
     <div style="display: flex; gap: 4px">
-        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="ESLint"/>
+        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
         <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
-        <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="ESLint"/>
+        <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
         <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="React Query"/>
         <img src="https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white" alt="React Table"/> and ma-a-any others...
     </div>
