@@ -112,8 +112,3 @@ I have experience working on:
     </div>
 </span>
 </div>
-
-## Some stats
-
-[![yukifury's WakaTime stats](https://fork-readme-stats-chi.vercel.app/api/wakatime?username=@ecca9ee2-07e7-43c3-a3bb-d3138ea2c316&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![yukifury's GitHub stats](https://fork-readme-stats-chi.vercel.app/api?username=yukifury&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
