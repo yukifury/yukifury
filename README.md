@@ -14,16 +14,13 @@ I have experience working on:
 - [X] Third-party services integrations (Chatwoot, Planka, SMTP, analytics and more). 
 - [ ] ~~Billion dollar social network with own cryptocurrencies and blackjack bots~~
 
-### 🔭 What I'm working on now
-- My UI-kit - [@reglyph](https://github.com/reglyph)
-
 ### ⚡ Open to
 - Full-time roles — remote or EU-based
 - Short collaborations and freelance projects (selective)
 
 #### My portfolio website - https://yukifury.dev
 
-#### 📫 You can reach me via Telegram - [@furiesd](https://furiesd.t.me)
+#### 📫 You can reach me via Telegram - [@r3nrel1o](https://r3nrel1o.t.me)
 
 ## Stack
 <div style="display: flex; flex-direction: column; gap: 8px">
